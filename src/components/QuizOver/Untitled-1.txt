@@ -1,0 +1,7 @@
+http://gateway.marvel.com/v1/public/comics?
+
+Public Key= 2cdf7a650a54a00b4f0ad49dc1f43088
+
+hash= 6fc0249817cc3567ea10ed65d61c4d51
+
+
